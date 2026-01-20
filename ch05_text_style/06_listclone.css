@@ -1,0 +1,16 @@
+ol>li:nth-child(4) {
+  text-decoration: line-through;
+}
+
+.dark {
+  text-decoration: overline;
+}
+
+/* 
+밑에 것도 가능하긴 한데 우선순위가 밀려서
+확인하고 싶으면 주석 처리하셔야 합니다.
+*/
+
+#move {
+  text-decoration: underline;
+}
