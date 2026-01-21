@@ -1,5 +1,7 @@
 div {
-  background-color: darkorange;
+  background-color: darkcyan;
   text-align: center;
-  height: 1em;
+  height: 100vh;
+  line-height: 100vh;
+  /* height와 line-height를 동일한 값을 주게 되면 `텍스트가 한 줄 일 경우 `중간에 위치시킬 수 있습니다. */
 }
